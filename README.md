@@ -1,6 +1,6 @@
 # Users API task
 
-![Minimal Preview](Screenshot 2023-07-14 at 20.12.06.png)
+![Minimal Preview](./preview.png)
 
 ## endpoint: [DummyJSON](https://dummyjson.com/docs/users)
 
